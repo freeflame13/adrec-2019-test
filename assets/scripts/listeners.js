@@ -27,3 +27,11 @@ $squares.forEach(function ($square) {
 $restartButton.onclick = function () {
     allowStartGame();
 };
+
+
+/**
+ * Restart the game duplicate
+ */
+$restartButton.onclick = function () {
+    allowStartGame();
+};
